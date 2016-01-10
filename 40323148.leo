@@ -1941,7 +1941,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148  楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2102,7 +2102,7 @@ jupyter notebook
 &lt;/section&gt;</t>
 <t tx="leo.20151022190454.1">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第一周:65&lt;/p&gt;
+    &lt;p&gt;1.第一週:65&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022190919.1">@language xml
@@ -2165,7 +2165,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2250,7 +2250,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2333,7 +2333,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2351,7 +2351,7 @@ jupyter notebook
 				</t>
 <t tx="leo.20151022191648.9">&lt;section&gt;
         &lt;h2&gt;第四週心得&lt;/h2&gt;
-        &lt;p&gt;換湯不換藥,不過本週首次發現網誌黨必須先存檔再轉檔,而且要開始學習使用creo&lt;/p&gt;
+        &lt;p&gt;換湯不換藥,不過本週首次發現網誌檔必須先存檔再轉檔,而且要開始學習使用creo&lt;/p&gt;
         
     &lt;/section&gt;
 				
@@ -2416,7 +2416,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2502,7 +2502,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2585,7 +2585,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2672,7 +2672,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2756,7 +2756,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2840,7 +2840,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2932,7 +2932,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3021,7 +3021,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3104,7 +3104,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3196,7 +3196,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3279,7 +3279,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3364,7 +3364,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3449,7 +3449,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323148 楊宗祐&lt;/p&gt;
+        &lt;p&gt;40323112 何秉霖&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
